@@ -1,4 +1,4 @@
-# CV của [Tên của bạn]
+# CV của [Nguyễn Đình Hoàng]
 
 ## Thông Tin Cá Nhân
 
