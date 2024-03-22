@@ -1,5 +1,5 @@
 # CV của [Nguyễn Đình Hoàng]
-<img src="avt.jpg" width="150" height="150">
+<img src="avt.jpg" width="150" height="170">
 
 ## Thông Tin Cá Nhân
 
