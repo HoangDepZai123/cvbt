@@ -1,4 +1,5 @@
 # CV của [Nguyễn Đình Hoàng]
+![Ảnh đại diện](avt.jpg)
 
 ## Thông Tin Cá Nhân
 
